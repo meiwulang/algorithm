@@ -4,6 +4,12 @@ import java.util.List;
 
 public class Test {
 
+	/** 
+	 * @Description: 测试最短距离
+	 * @author 王斌
+	 * @date 2017年12月20日 上午10:09:48
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		List<Vertex> vertexs = new ArrayList<Vertex>();
 		Vertex a = new Vertex("A", 0);

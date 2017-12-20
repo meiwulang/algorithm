@@ -1,4 +1,10 @@
 package com.wb.algorithm.dijkstra;
+/**   
+* @Description 图的顶点
+* @author 王斌
+* @date 2017年12月20日 上午10:10:52 
+* @version V1.0   
+*/
 public class Vertex implements Comparable<Vertex> {
 
 	/**

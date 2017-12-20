@@ -14,7 +14,7 @@ public class Graph {
 	/*
 	 * 边
 	 */
-	private int[][] edges;
+	private int[][] edges;//采用邻接矩阵保存边关系
 
 	/*
 	 * 没有访问的顶点
