@@ -37,6 +37,8 @@ public class Test {
 		graph.printGraph();
 		graph.search();
 		//如何把任意两点的最短路径的轨迹找出来
+		System.out.println(graph.getDistance(c, e));
+		System.out.println(f.getPath());
 	}
 
 }
